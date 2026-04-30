@@ -3,8 +3,8 @@ Quero criar um sistema backend em TypeScript que demonstre meus conhecimentos t�
 A base do projeto deve ser:
 
 - Node.js + TypeScript
-- Um framework backend moderno e muito utilizado no mercado, preferencialmente NestJS
-- Uma ORM moderna e bem aceita, como Prisma ou TypeORM
+- Um framework backend moderno e muito utilizado no mercado, preferencialmente Express ou NestJs
+- Uma ORM moderna e bem aceita, como TypeORM ou Prisma
 - Banco de dados relacional, preferencialmente PostgreSQL
 - Autenticação e autorização
 - Validação de requisições com uma biblioteca robusta, como Zod, class-validator ou outra mais adequada ao framework escolhido
