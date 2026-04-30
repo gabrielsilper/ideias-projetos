@@ -1,0 +1,55 @@
+Quero criar um sistema backend em TypeScript que demonstre meus conhecimentos técnicos e me ajude a evoluir para um nível pleno.
+
+A base do projeto deve ser:
+
+- Node.js + TypeScript
+- Um framework backend moderno e muito utilizado no mercado, preferencialmente NestJS
+- Uma ORM moderna e bem aceita, como Prisma ou TypeORM
+- Banco de dados relacional, preferencialmente PostgreSQL
+- Autenticação e autorização
+- Validação de requisições com uma biblioteca robusta, como Zod, class-validator ou outra mais adequada ao framework escolhido
+- Observabilidade
+- Auditoria de ações dos usuários
+- Logs da aplicação salvos e organizados
+- Segurança, incluindo rate limit por IP, proteção contra abuso de requisições e boas práticas para APIs
+- Documentação da API com Swagger/OpenAPI
+- Testes automatizados
+- Estrutura de projeto bem organizada, com separação de responsabilidades
+- Boas práticas de arquitetura backend
+
+Preciso que você me ajude a definir uma ideia de sistema realista, útil e com valor prático, algo que uma empresa ou usuário realmente poderia precisar.
+
+O sistema precisa permitir aplicar todos esses conhecimentos de forma natural, sem parecer que as funcionalidades foram colocadas apenas para estudo.
+
+Quero que a ideia tenha espaço para começar simples e evoluir aos poucos, adicionando novas funcionalidades conforme o projeto crescer.
+
+Além disso, quero que o projeto tenha características que passem uma imagem de desenvolvedor backend pleno, como:
+
+- Controle de permissões por perfil de usuário
+- Logs estruturados
+- Auditoria de ações importantes
+- Tratamento global de erros
+- Validação consistente de entradas
+- Paginação, filtros e ordenação
+- Segurança básica contra abusos
+- Testes unitários e de integração
+- Uso de Docker
+- Documentação clara da API
+- Organização em módulos
+- Boas práticas de versionamento de rotas
+- Configuração por variáveis de ambiente
+- Migrations do banco de dados
+- Possibilidade futura de multi-tenant, filas, cache ou notificações
+
+Com base nisso, me dê:
+
+1. Uma ou mais ideias de sistemas reais que se encaixem nesse objetivo.
+2. Qual ideia seria a melhor para demonstrar conhecimento backend.
+3. Quais entidades principais o sistema teria.
+4. Quais funcionalidades iniciais eu deveria implementar.
+5. Quais funcionalidades avançadas eu poderia adicionar depois.
+6. Quais tecnologias você recomenda usar e por quê.
+7. Como estruturar o projeto de forma profissional.
+8. Como esse projeto pode ser apresentado no GitHub e no currículo.
+9. Um roadmap de desenvolvimento, começando do simples até o avançado.
+10. Quais diferenciais fariam esse projeto parecer de nível pleno.
